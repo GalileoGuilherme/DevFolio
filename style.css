@@ -4,7 +4,14 @@
 .list-ico {
     line-height: 2;
     margin-top: 51px;
+    
 }
 #icon-footer{
     margin-bottom: 13px;
+    
+}
+#ic{
+    font-size: 3rem;
+    margin-top: 3rem;
+    margin-left: 1rem;
 }
